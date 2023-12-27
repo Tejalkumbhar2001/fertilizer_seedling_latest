@@ -3,7 +3,7 @@ name = "fertilizer_seedling"
 authors = [
     { name = "tejal", email = "tejal.kumbhar@erpdata.in"}
 ]
-description = "fertilizer seedling"
+description = "fertilizer_seedling"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

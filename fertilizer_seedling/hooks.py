@@ -1,7 +1,7 @@
 app_name = "fertilizer_seedling"
-app_title = "fertilizer seedling"
+app_title = "fertilizer_seedling"
 app_publisher = "tejal"
-app_description = "fertilizer seedling"
+app_description = "fertilizer_seedling"
 app_email = "tejal.kumbhar@erpdata.in"
 app_license = "MIT"
 
