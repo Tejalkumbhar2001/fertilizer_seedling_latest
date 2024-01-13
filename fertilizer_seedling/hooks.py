@@ -216,7 +216,12 @@ app_license = "MIT"
 
 
 fixtures = [
-   
-    "Item Group",
-    
+    {
+        "doctype": "Item Group",
+        "filters": [
+            ["name", "in", ["Fertilizer Group","Seed Category"]],
+        ],
+    },
 ]
+
+
