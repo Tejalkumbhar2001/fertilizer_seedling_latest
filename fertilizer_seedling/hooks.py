@@ -213,3 +213,10 @@ app_license = "MIT"
 # auth_hooks = [
 #	"fertilizer_seedling.auth.validate"
 # ]
+
+
+fixtures = [
+   
+    "Item Group",
+    
+]
